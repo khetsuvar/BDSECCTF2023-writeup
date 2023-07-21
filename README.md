@@ -7,7 +7,7 @@ Hey there! 👋 I'm excited to share our experience at the BDSec CTF 2023! In th
 ## Team Information
 
 - Team Name: *Wannalrn*
-- My Teammate's GitHub: [TeammateGitHub](https://github.com/xHacka)
+- My Teammate's GitHub: [xHacka](https://github.com/xHacka)
 
 ## CTF Experience
 
@@ -23,8 +23,6 @@ BDSec CTF 2023 was an amazing event that challenged us with a wide array of cryp
 Here's a glimpse of our journey in the CTF:
 Here is how it went :
 ![CTF Screenshot](https://imgur.com/O3jrRYg.png)  <br>
-And our score over time :
-![Another CTF Screenshot](https://imgur.com/v38RpSq.png)
 ## Reflection
 
 Participating in the BDSec CTF 2023 was an excellent opportunity to put our cybersecurity knowledge to the test. The challenges were indeed challenging, but the satisfaction of overcoming each one was worth it. We learned a lot from analyzing and solving these problems, and it was a great chance to enhance our skills.
