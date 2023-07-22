@@ -20,8 +20,10 @@ _**2. Getting the CEO's Name.**_
 
 On Linkedin, I made a serendipitous discovery – a certificate with the CEO's name, Janet Legere. To be thorough, I cross-verified the certificate on Facebook, where I stumbled upon a telling message:
 
-"It has been an honor to work for CLB Learning.
+```
+It has been an honor to work for CLB Learning.
 Janet is very friendly and a great employer.
-Thanks to Janet as well as The Contact List Builder for the certificate."
+Thanks to Janet as well as The Contact List Builder for the certificate.
+```
 
 FLAG: _**BDSEC{Moniruzzaman_Prodhan_Janet_Legere}**_
