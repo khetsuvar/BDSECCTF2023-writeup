@@ -31,10 +31,10 @@ Participating in the BDSec CTF 2023 was an excellent opportunity to put our cybe
 
 We want to express our gratitude to the organizers of the BDSec CTF 2023 for hosting an outstanding competition. The effort they put into designing these intriguing challenges made it an enjoyable experience for us and many others.
 ## List
-  *![Find Leader](https://github.com/KH3TSU/BDSECCTF2023-writeup/blob/main/Find_Leader.md) <br>
-  *![Old Client Area](https://github.com/KH3TSU/BDSECCTF2023-writeup/blob/main/Old_Client_area.md) <br>
-  *![Think Like A Hacker](https://github.com/KH3TSU/BDSECCTF2023-writeup/blob/main/Think_Like_A_Hacker.md) <br>
-  *![What is Her Name?](https://github.com/KH3TSU/BDSECCTF2023-writeup/blob/main/What_is_her_name%3F.md) <br>
+  * ![Find Leader](https://github.com/KH3TSU/BDSECCTF2023-writeup/blob/main/Find_Leader.md) <br>
+  * ![Old Client Area](https://github.com/KH3TSU/BDSECCTF2023-writeup/blob/main/Old_Client_area.md) <br>
+  * ![Think Like A Hacker](https://github.com/KH3TSU/BDSECCTF2023-writeup/blob/main/Think_Like_A_Hacker.md) <br>
+  * ![What is Her Name?](https://github.com/KH3TSU/BDSECCTF2023-writeup/blob/main/What_is_her_name%3F.md) <br>
 ## Conclusion
 
 The BDSec CTF 2023 was a memorable journey that pushed our limits and expanded our knowledge in the world of cybersecurity. We had a blast and look forward to participating in more CTFs in the future. If you're interested in exploring the challenges we faced in this CTF, feel free to check out the repository and our solutions.
