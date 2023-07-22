@@ -23,6 +23,6 @@ Author : NomanProdhan
 1. Search for data dumps from this person on google,brave,duckduckgo and more (I searched **Hax0r_BD Dumped Data**)
 2. try to find on websites where they can host text. (for example : _pastebin_)
 while I was searching on duckduckgo I found Paste on pastebin named **Dumped Data**. Here is the link ![link](https://pastebin.com/b4XVaF9j)
-Text there was `Gov sites sucks CVE-2023-23752 rocks 😋` . so CVE would be CVE-2023-
+Text there was `Gov sites sucks CVE-2023-23752 rocks 😋` . so CVE would be CVE-2023-23752
 
 Flag: _**BDSEC{CVE-2023-23752}**_
