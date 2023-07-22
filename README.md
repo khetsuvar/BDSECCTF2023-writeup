@@ -21,7 +21,7 @@ BDSec CTF 2023 was an amazing event that challenged us with a wide array of cryp
 ## Screenshots
 
 Here's a glimpse of our journey in the CTF:
-Here is how it went :
+Here is how it went : <br>
 ![CTF Screenshot](https://imgur.com/O3jrRYg.png)  <br>
 ## Reflection
 
